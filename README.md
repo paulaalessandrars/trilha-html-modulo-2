@@ -22,11 +22,7 @@ Abaixo como cada página deve ser criada e estruturada.
 
 ### Estrutura das páginas
 
-Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `template.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
-
-![Estrutura](https://i.stack.imgur.com/9jI6f.gif)
-
-\* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
+Todas as páginas terão que seguir um padrão.
 
 No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
 ### Página Principal
